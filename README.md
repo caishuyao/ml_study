@@ -1,5 +1,6 @@
 # ml_study
-machine Learning &amp; deep learning
+notes of machine Learning and deep learning
+# thoughts that can publish on github.io
 * machine Learning
 ** supervised learning
 *** classifier
